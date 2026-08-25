@@ -94,15 +94,74 @@ Backend project focused on building an e-learning platform with a TypeScript/Nes
   <img src="https://skillicons.dev/icons?i=python,pytorch" alt="AI and Research" />
 </p>
 
-## Current Focus
+## 🎯 Current Focus
 
-```text
-Backend Engineering    REST APIs · Authentication · Queues · Caching · Database Design
-Java Ecosystem         Spring Boot · Spring Security · Spring Data JPA
-Node.js Ecosystem      NestJS · TypeScript · BullMQ · WebSocket
-AI Research            Deepfake Detection · ViT · CNN · LSDA · SRM · FFT
-Infrastructure         PostgreSQL · Redis · Docker · Linux
-```
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### ⚙️ Backend
+
+* REST APIs
+* Authentication
+* Background Jobs
+* Caching
+
+</td>
+<td width="33%" valign="top">
+
+### 🚀 Production
+
+* Docker
+* Linux
+* CI/CD
+* Deployment
+
+</td>
+<td width="33%" valign="top">
+
+### 🧠 AI Research
+
+* Deepfake Detection
+* ViT / CNN
+* LSDA / SRM / FFT
+
+</td>
+</tr>
+
+<tr>
+<td width="33%" valign="top">
+
+### 🟢 Node.js
+
+* NestJS
+* TypeScript
+* BullMQ
+* WebSocket
+
+</td>
+<td width="33%" valign="top">
+
+### ☕ Java
+
+* Spring Boot
+* Spring Security
+* Spring Data JPA
+
+</td>
+<td width="33%" valign="top">
+
+### 🗄️ Data
+
+* PostgreSQL
+* Redis
+* Database Design
+
+</td>
+</tr>
+</table>
+
+
 <div align="center"> 
 <strong>Build things. Understand how they work. Keep improving them.</strong> 
   <br><br> <a href="https://github.com/duongduyy004?tab=repositories">View all repositories</a>
