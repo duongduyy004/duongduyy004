@@ -17,7 +17,7 @@ Exploring **Deepfake Detection · Vision Transformers · Digital Forensics**
 
 ## 👨‍💻 About Me
 
-- 🔧 Backend-focused developer working with **TypeScript, NestJS, Node.js, PostgreSQL, Redis, and Java/Spring Boot**.
+- 🔧 Backend-focused developer working with **TypeScript, NestJS, Node.js, PostgreSQL, Redis**.
 - 🚀 Experienced in **production deployment and CI/CD pipelines** using Docker, Linux, and Git-based workflows.
 - ⚙️ Interested in **backend architecture, API design, background jobs, caching, system reliability, and DevOps practices**.
 - 🧠 Exploring **deepfake detection and digital forensics** using Vision Transformers, CNNs, and frequency-domain features.
