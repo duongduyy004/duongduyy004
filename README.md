@@ -2,7 +2,7 @@
 
 # I'm Duy 👋
 
-### Backend-focused Developer
+### Fullstack Developer
 
 **TypeScript / NestJS · Java / Spring Boot · PostgreSQL · Redis · Docker**  
 Exploring **Deepfake Detection · Vision Transformers · Digital Forensics**
